@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning Coding, Data-Structures and Algorithms 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects, anything to get my feet wet :smile: 
 
 - 💬 Talk to me about C# .NET, Javascript, React, PostgreSql 
 
