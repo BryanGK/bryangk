@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning Coding, Data-Structures and Algorithms 
 
-- 👯 I’m looking to collaborate on Projects, anything to get my feet wet :smile: 
+- 👯 I’m looking to connect with other developers and build my network :smile: 
 
-- 💬 Talk to me about C# .NET, Javascript, React 
+- 💬 Talk to me about C# .NET, Javascript, React, PHP, Laravel 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/BryanGK?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
