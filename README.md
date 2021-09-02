@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on Fantasy Stock Trader
 
-- 🌱 I’m currently learning PHP, Laravel, and Data-Structures and Algorithms 
+- 🌱 I’m currently learning TypeScript, Software Design Patterns, and Data-Structures and Algorithms 
 
 - 👯 I’m looking to connect with other developers and build my network :smile: 
 
-- 💬 Talk to me about C# .NET, Javascript, React, PHP, Laravel 
+- 💬 Talk to me about C# .NET, Javascript, React 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://github.com/BryanGK?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
